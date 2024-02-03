@@ -1,0 +1,5 @@
+ar\org\icaro\automatizacion\pages\BasePage.class
+ar\org\icaro\automatizacion\pages\RegisterPage.class
+ar\org\icaro\automatizacion\pages\LoginPage.class
+ar\org\icaro\automatizacion\pages\AccountPage.class
+ar\org\icaro\automatizacion\pages\HomePage.class
